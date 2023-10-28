@@ -83,7 +83,7 @@ button {
 .header{
     
     grid-area: hd;
-    background-image: url("../img/TomatoHeader.jpg");
+    background-image: url("../assets/TomatoHeader.jpg");
     background-size:cover;
     background-repeat: repeat;
 }
@@ -144,37 +144,37 @@ button {
   }
 
   #cardImg1 {
-    background-image: url("../img/Varieties1.png");
+    background-image: url("../assets/Varieties1.png");
     background-size: cover;
 
   }
 
   #cardImg2 {
-    background-image: url("../img/Tomato_life_cycle.jpg");
+    background-image: url("../assets/Tomato_life_cycle.jpg");
     background-size:cover;
 
   }
 
   #cardImg3 {
-    background-image: url("../img/CelebrityTomato.jpg");
+    background-image: url("../assets/CelebrityTomato.jpg");
     background-size: cover;
 
   }
 
   #cardImg4 {
-    background-image: url("../img/Canning.jpg");
+    background-image: url("../assets/Canning.jpg");
     background-size: cover;
 
   }
 
   #cardImg5 {
-    background-image: url("../img/Soil.jpg");
+    background-image: url("../assets/Soil.jpg");
     background-size: cover;
 
   }
 
   #cardImg6 {
-    background-image: url("../img/Sauce.jpg");
+    background-image: url("../assets/Sauce.jpg");
     background-size: cover;
 
   }
@@ -183,7 +183,7 @@ button {
     grid-area: ft;
     justify-items: center;
     align-items: center;
-    background-image: url("../img/Footer.png");
+    background-image: url("../assets/Footer.png");
     background-size:contain;
 }
 

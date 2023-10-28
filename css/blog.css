@@ -127,7 +127,7 @@ button:hover {
 .header{
 
     grid-area: hd;
-    background-image: url("../img/TomatoHeader.jpg");
+    background-image: url("../assets/TomatoHeader.jpg");
     background-size:cover;
     background-repeat: repeat;
 }
@@ -193,7 +193,7 @@ button:hover {
     grid-area: ft;
     justify-items: center;
     align-items: center;
-    background-image: url("../img/Footer.png");
+    background-image: url("../assets/Footer.png");
     background-size:contain;
 }
 
